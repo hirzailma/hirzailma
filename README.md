@@ -2,9 +2,9 @@
 
 # Hirza Ilma Al Humaidi
 
-### 🚀 Student & Aspiring Developer
+### 🚀 Aspiring Web Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Student+at+IDN+Boarding+School;Web+Development+Enthusiast;Passionate+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Student+at+IDN+Boarding+School;Junior+Web+Developer;Based+in+North+Jakarta)](https://git.io/typing-svg)
 
 ---
 
@@ -12,13 +12,13 @@
 
 ## 📖 About Me
 
-Hello! 👋 I'm **Hirza Ilma Al Humaidi**, a passionate student at **IDN Boarding School**. I have a strong interest in technology, web design, and software development. I enjoy learning how to build clean, functional, and visually appealing web applications while continuously expanding my technical skills.
+Halo! 👋 Saya **Hirza Ilma Al Humaidi**, seorang pelajar berusia 17 tahun di **IDN Boarding School** yang berasal dari Jakarta Utara. Saat ini saya sedang berfokus menjelajahi dunia *web development* sebagai seorang pengembang web pemula. Saya memiliki ketertarikan tinggi untuk mempelajari cara membangun website yang bersih, menarik, dan fungsional sambil terus mengasah kemampuan *coding* saya.
 
 ---
 
 ## 🛠️ Languages & Technologies
 
-Here are the languages and technologies I've worked with:
+Berikut adalah bahasa pemrograman dan teknologi yang sedang dan pernah saya kuasai:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -29,7 +29,7 @@ Here are the languages and technologies I've worked with:
 
 ## 🌐 Connect With Me
 
-Feel free to reach out or explore my work through the links below:
+Mari terhubung dan berkolaborasi melalui kontak dan media sosial di bawah ini:
 
 <p align="left">
   <a href="https://wa.me/6281992373219" target="_blank">
