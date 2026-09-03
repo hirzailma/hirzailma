@@ -1,49 +1,47 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Hirza Ilma Al Humaidi</h1>
+<h3 align="center">🚀 Junior Web Developer | Belajar & Berkembang Setiap Hari</h3>
 
-# Hirza Ilma Al Humaidi
-
-### 🚀 Aspiring Web Developer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Student+at+IDN+Boarding+School;Junior+Web+Developer;Based+in+North+Jakarta)](https://git.io/typing-svg)
-
----
-
-</div>
-
-## 📖 About Me
-
-Halo! 👋 Saya **Hirza Ilma Al Humaidi**, seorang pelajar berusia 17 tahun di **IDN Boarding School** yang berasal dari Jakarta Utara. Saat ini saya sedang berfokus menjelajahi dunia *web development* sebagai seorang pengembang web pemula. Saya memiliki ketertarikan tinggi untuk mempelajari cara membangun website yang bersih, menarik, dan fungsional sambil terus mengasah kemampuan *coding* saya.
-
----
-
-## 🛠️ Languages & Technologies
-
-Berikut adalah bahasa pemrograman dan teknologi yang sedang dan pernah saya kuasai:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Web+Developer;Belajar+HTML+%26+CSS;Terbuka+untuk+Kolaborasi!&center=true&width=500&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 👨‍💻 About Me
 
-Mari terhubung dan berkolaborasi melalui kontak dan media sosial di bawah ini:
+Halo! Saya **Hirza**, seorang web developer baru yang sedang menekuni dunia pengembangan web. Saat ini saya masih dalam tahap belajar, terus mengasah kemampuan, dan senang mengeksplorasi teknologi baru di dunia web development. Yuk terhubung dan berkolaborasi! ✨
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://wa.me/6281992373219" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://github.com/hirzailma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:hirzailma8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hirzailma8@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
-<div align="center">
-  <sub>Designed with ❤️ by Hirza Ilma Al Humaidi</sub>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hirzailma&show_icons=true&theme=default&hide_title=false" alt="Hirza's GitHub Stats" />
+</p>
+
+<p align="center">
+  <i>⭐️ Terima kasih sudah mampir di profil saya!</i>
+</p>
